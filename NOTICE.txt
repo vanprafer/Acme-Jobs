@@ -25,9 +25,7 @@ The following tools and components are required:
 	- SQL Editor 1.0.0
 	- UMLet - UML Tool for Fast UML Diagrams 14.3
 	- Lombok 1.18.8
-Lets create some errors in commits
-Conflicts conflicts dubidu
+  
 The contributors of this projects are:
+	-John Design-Testing (john-design-testing@gmail.com)
 	-Mary Design-Testing (mary-design-testing@gmail.com)
-
-
